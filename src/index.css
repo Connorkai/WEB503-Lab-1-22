@@ -1,0 +1,17 @@
+.header1 {
+    color: blue;
+    text-align: center;
+    background-color: black;
+}
+
+#header2 {
+    color: red;
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    background-color: red;
+    text-align: center;
+    color: white;
+}
